@@ -26,7 +26,7 @@ A cross-platform Socks5/Http/SS/SSR/Vmess/Trojan(go)/Snell GUI client
 
 ## Install
 
-- You can download from [release](https://github.com/blue-githubz6kh/Trojan-Qt5/releases) page
+- You can download from [release](https://github.com/blue-githubz6kh/Trojan-Qt5-1/releases) page
 - Or using [Homebrew](https://brew.sh/): `brew cask install trojan-qt5`
 - Or using [Scoop](https://scoop.sh/):
   ```powershell
