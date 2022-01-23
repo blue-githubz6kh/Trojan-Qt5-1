@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Trojan-Qt5/Trojan-Qt5/blob/master/resources/icons/trojan-qt5_new.png?raw=true" alt="Trojan-Qt5" width="200">
+  <img src="https://github.com/blue-githubz6kh/Trojan-Qt5-1/blob/blue-githubz6kh-patch-1/64518553.png" alt="Trojan-Qt5" width="200">
   <br>
   Trojan-Qt5
   <br>
